@@ -4,30 +4,39 @@
 		<title>Jason Erb</title>
 		<style>
 			body {
-				background: #D3D3D3;
-				background-image: url('background.png');
-				background-position: center bottom;
-				background-repeat: no-repeat;
-				background-size: contain;
+				background: #C0C0C0;
 				color: black;
 				font-family: "Futura";
+				font-size: 1.75vw;
+				margin: 0px;
+				padding: 0px;
 			}
 			a {
 				color: black;
 				text-decoration-style: dotted;
 			}
-			small {
-				font-size: 10px;
-				position: absolute;
-				bottom: 0;
-				right: 0;
-				margin: 2px 8px 2px 2px;
+			img {
+				display: block;
+				width: 100%;
 			}
-			div {
+			small {
+				bottom: 0;
+				font-size: 1.25vw;
+				margin: 2px 8px 2px 2px;
+				position: absolute;
+				right: 0;
+			}
+			#container {
 				align-items: center;
+				bottom: 0;
 				display: flex;
+				flex-direction: row;
+				flex-wrap: nowrap;
+				position: absolute;
+			}
+			.side {
 				width: 33%;
-				height: 100%;
+				padding: 20px;
 			}
 			.left {
 				float: left;
@@ -42,11 +51,16 @@
 		</style>
 	</head>
 	<body>
-		<div class="left">
-			<h1>JASON ERB</h1>
-		</div>
-		<div class="right">
-			<h2><a href="http://www.linkedin.com/in/sparist">Software Consultant</a></h2>
+		<div id="container">
+			<div class="side left">
+				<h1>JASON ERB</h1>
+			</div>
+			<div>
+				<img src="background.png"/>
+			</div>
+			<div class="side right">
+				<h2><a href="http://www.linkedin.com/in/sparist">Software Consultant</a></h2>
+			</div>
 		</div>
 		<small>Photo by <a href="https://www.linkedin.com/in/mahdi-kabir/">Mahdi Kabir</a></small>
 	</body>
