@@ -5,63 +5,54 @@
 		<style>
 			body {
 				background: #C0C0C0;
+				background-attachment: fixed;
+				background-image: url('background.png');
+				background-position: left bottom;
+				background-repeat: no-repeat;
+				background-size: 45%;
 				color: black;
 				font-family: "Futura";
-				font-size: 1.75vw;
+				font-size: 25px;
+				font-weight: normal;
 				margin: 0px;
 				padding: 0px;
 			}
 			a {
 				color: black;
-				text-decoration-style: dotted;
 			}
-			img {
-				display: block;
-				width: 100%;
-			}
-			small {
-				bottom: 0;
-				font-size: 1.25vw;
-				margin: 2px 8px 2px 2px;
-				position: absolute;
-				right: 0;
-			}
-			#container {
-				align-items: center;
-				bottom: 0;
-				display: flex;
-				flex-direction: row;
-				flex-wrap: nowrap;
-				position: absolute;
-			}
-			.side {
-				width: 33%;
-				padding: 20px;
-			}
-			.left {
-				float: left;
-				justify-content: left;
-				text-align: left;
+			h1 {
+				font-size: 50px;
+				font-weight: normal;
 			}
 			.right {
-				float: right;
+				position: absolute;
+
+				bottom: 0px;
+				right: 10px;
+				top: 0px;
+
+				width: 50%;
+
 				justify-content: right;
 				text-align: right;
+			}
+			.right h1 {
+				display: flex;
+				justify-content: flex-end;
 			}
 		</style>
 	</head>
 	<body>
-		<div id="container">
-			<div class="side left">
-				<h1>JASON ERB</h1>
-			</div>
-			<div>
-				<img src="background.png"/>
-			</div>
-			<div class="side right">
-				<h2><a href="http://www.linkedin.com/in/sparist">Software Consultant</a></h2>
-			</div>
+		<div class="right">
+			<h1>JASON ERB</h1>
+			<p>
+				Software Consultant with
+				<a href="https://www.linkedin.com/in/sparist/">over 25 years of
+				experience</a> writing software people need.
+			</p>
+			<p>
+				<a href="mailto:consulting@jason-erb.com">Email</a> for a quote.</a>
+			</p>
 		</div>
-		<small>Photo by <a href="https://www.linkedin.com/in/mahdi-kabir/">Mahdi Kabir</a></small>
 	</body>
 </html>
