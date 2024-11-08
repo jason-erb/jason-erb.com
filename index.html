@@ -37,6 +37,9 @@
 					}
 				}
 			);
+			window.onorientationchange = function() {
+				window.scrollTo(0, 0);
+			};
 		</script>
 		<style>
 			:root {
@@ -103,9 +106,4 @@
 			</div>
 		</div>
 	</body>
-	<script>
-		window.onorientationchange = function() {
-			window.scrollTo(0, 0);
-		};
-	</script>
 </html>
