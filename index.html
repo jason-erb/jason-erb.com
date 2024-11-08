@@ -44,6 +44,7 @@
 				font-size: min(4vw, 28px);
 				font-weight: normal;
 				overscroll-behavior: none;
+				scroll-behavior: smooth;
 			}
 			body {
 				background: #BBB;
@@ -102,4 +103,9 @@
 			</div>
 		</div>
 	</body>
+	<script>
+		window.onorientationchange = function() {
+			window.scrollTo(0, 0);
+		};
+	</script>
 </html>
