@@ -1,6 +1,6 @@
 {
 	"background_color": "#bbb",
-	"display": "standalone",
+	"display": "browser",
 	"icons": [
 		{
 			"src": "image/favicon/192x192.png",
