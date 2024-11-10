@@ -1,6 +1,6 @@
 {
-	"name": "",
-	"short_name": "",
+	"background_color": "#bbb",
+	"display": "standalone",
 	"icons": [
 		{
 			"src": "image/favicon/192x192.png",
@@ -13,7 +13,7 @@
 			"type": "image/png"
 		}
 	],
-	"theme_color": "#ffffff",
-	"background_color": "#ffffff",
-	"display": "standalone"
+	"name": "Jason Erb",
+	"short_name": "Jason Erb",
+	"theme_color": "#bbb"
 }
