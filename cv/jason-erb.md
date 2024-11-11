@@ -15,7 +15,7 @@
 
 #### **Distributive** | Kingston, Ontario, Canada
 
-##### Senior Software Developer (Contract) | August 2019 \- September 2024
+##### **Senior Software Developer (Contract)** | August 2019 \- September 2024
 
 * **Technologies:** C++, CMake, CPack, CTest, Boost, Google V8, Google Dawn, Google Omaha, JavaScript, Node API, WiX Toolset, Win32 API, Bash, Sockets, Linux, Windows, MacOS, Docker, Git, GitLab CI  
 * **Contributions:** Google Dawn, Google Omaha, Google V8, Uncrustify  
@@ -27,7 +27,7 @@
 
 #### **Suitable Technologies** | Palo Alto, California, United States (Remote)
 
-##### Senior Software Developer (Contract) | May 2013 \- January 2020
+##### **Senior Software Developer (Contract)** | May 2013 \- January 2020
 
 * **Technologies:** C++, CMake, Qt, QtQuick, QML, Python, Linux, Windows, MacOS, Android, iOS, Objective-C++, Git  
 * **Contributions:** Qt  
@@ -41,7 +41,7 @@
 
 #### **PrintFleet Inc.** | Kingston, Ontario, Canada
 
-##### Senior Software Developer | July 2012 \- May 2013
+##### **Senior Software Developer** | July 2012 \- May 2013
 
 * **Technologies:** ASP, ASP.NET, C\#, SQL, JavaScript, HTML, CSS, Windows  
 * Fixed and improved the core asset management web software product  
@@ -51,7 +51,7 @@
 
 #### **Endetec (Veolia Water Solutions & Technologies)** | Kingston, Ontario, Canada
 
-##### Software Developer | March 2011 \- July 2012
+##### **Software Developer** | March 2011 \- July 2012
 
 * **Technologies:** C++, CMake, Boost, Python, XML, XSLT, HTML, CSS, wxWidgets, Linux  
 * **Contributions:** Boost, CMake, wxWidgets  
@@ -62,7 +62,7 @@
 
 #### **PYXIS Innovation** | Kingston, Ontario, Canada
 
-##### Software Developer | September 2006 \- October 2008, September 2009 \- January 2011
+##### **Software Developer** | September 2006 \- October 2008, September 2009 \- January 2011
 
 * **Technologies:** C++, Boost, C\#, SWIG, Windows  
 * Helped develop a geospatial grid technology, browser, and SDK  
@@ -72,7 +72,7 @@
 
 #### **Dunne and Associates** | Kingston, Ontario, Canada
 
-##### Senior Software Developer | November 2008 \- September 2009
+##### **Senior Software Developer** | November 2008 \- September 2009
 
 * **Technologies:** C++, Boost, TTL SDKs, MFC, C\#, XNA, WCF, Lidgren, ActionScript, Windows, Xbox  
 * Created the BrainModder neurofeedback training software system  
@@ -80,7 +80,7 @@
 
 #### **Hummingbird** | Kingston, Ontario, Canada
 
-##### Software Developer | April 2002 \- September 2006
+##### **Software Developer** | April 2002 \- September 2006
 
 * **Technologies:** C++, MFC, OLAP, Windows  
 * Fixed bugs and made general improvements to the flagship BI reporting product  
@@ -88,7 +88,7 @@
 
 #### **Hilton Consulting Group** | Kingston, Ontario, Canada
 
-##### Software Developer (Team Lead), Product Development Manager | September 1998 \- April 2002
+##### **Software Developer (Team Lead), Product Development Manager** | September 1998 \- April 2002
 
 * **Technologies:** SQL Server, Microsoft Analysis Services, OLAP, SQL, MDX, XML, ASP, JavaScript, HTML, CSS, Visual Basic, COM, XML, XSLT, Windows  
 * Directed a team of developers: trained, delegated, instituted standards, and reviewed code  
