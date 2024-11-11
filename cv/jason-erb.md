@@ -1,6 +1,6 @@
 # **JASON ERB** | **Senior Software Developer & Architect**
 
-## [jason-erb.com](https://jason-erb.com) | [consulting@jason-erb.com](mailto:consulting@jason-erb.com) | [\+1-343-333-4397](tel:+1-343-333-4397) | 98 Main Street | Kingston ON K7K 3Y8 | Canada
+## Kingston ON CA | [\+1-343-333-4397](tel:+1-343-333-4397) | [consulting@jason-erb.com](mailto:consulting@jason-erb.com) | [jason-erb.com](https://jason-erb.com) | [linkedin.com/in/jason-erb](https://www.linkedin.com/in/jason-erb/)
 
 ### **SUMMARY**
 
@@ -33,7 +33,7 @@ Modern C++ (22+ years, along with STL, Boost, Qt/QtQuick/QML, and others), C, CM
 * As the first developer hired after spin-off from Willow Garage, joined the team responsible for both the embedded and client (“pilot”) software for the acclaimed Beam remote presence robot.  
 * Played a key role in porting pilot software to iOS and Android, including successfully realizing a mobile driving model and UI that achieved both safety and usability.  
 * Took the lead in the addition of a high-definition point/tilt/zoom camera and laser pointer: delegated tasks, collaborated on the design, and contributed code.  
-* Internationalized code (including RTL support), instituted i18n best practices, and oversaw translations.  
+* Internationalized code (including RTL support), instituted i18n best practices, and oversaw localization.  
 * Authored a network diagnostics tool and UI.  
 * Assumed ownership of the pseudo-TCP implementation and relay-related code.  
 * Fixed bugs, wrote unit tests, reviewed code, and conducted technical job interviews.
@@ -44,7 +44,7 @@ Modern C++ (22+ years, along with STL, Boost, Qt/QtQuick/QML, and others), C, CM
 
 * **Skills:** ASP, ASP.NET, C\#, SQL, JavaScript, HTML, CSS, Windows  
 * Fixed and improved an asset management web software product.  
-* Internationalized code, automated text extraction/substitution, and oversaw translations.  
+* Internationalized code, automated text extraction/substitution, and oversaw localization.  
 * Redesigned and rewrote a distributed scheduling architecture for device notifications.  
 * Contributed to the design and delivery of a public REST API.
 
@@ -92,15 +92,15 @@ Modern C++ (22+ years, along with STL, Boost, Qt/QtQuick/QML, and others), C, CM
 * **Skills:** SQL Server, Microsoft Analysis Services, OLAP, SQL, MDX, XML, ASP, JavaScript, HTML, CSS, Visual Basic, COM, XML, XSLT, Windows  
 * Directed a team of developers: trained, delegated, instituted standards, and reviewed code.  
 * Produced a commercial, web-based multi-dimensional data source browser and API.  
-* Architected the database and web UI for an asset auditing/management application.  
+* Architected the database and web UI for an asset auditing and management application.  
 * Wrote and tested applications for Hotel Dieu Hospital and the Ministry of Health and Long-Term Care.
 
 ### **PROJECTS**
 
 #### **Om Language** | [**https://github.com/sparist/om**](https://github.com/sparist/Om)
 
-Creator of the Om Language, an experimental high-level, concatenative, functional, homoiconic programming language, written in C++, with minimal syntax (only three elements), prefix notation (whereby functions manipulate the remainder of the program itself), and a single “program” data type. A rewrite is in progress.
+Creator of the Om Language, an experimental high-level, concatenative, functional, homoiconic programming language, written in C++, with minimal syntax (only three elements), prefix notation (whereby functions manipulate the remainder of the program itself), and a single “program” data type.
 
 #### **Om Tree** | [**https://gitlab.com/impossibilium/om-tree**](https://gitlab.com/impossibilium/om-tree)
 
-Creator of the Om Tree, an efficient associative array written in modern, portable C17 as a binary compact prefix tree with novel optimizations that allow it to significantly outperform std::map on most operations. It has [100% line, function, and branch unit test coverage](https://impossibilium.gitlab.io/om-tree/gcovr/index.html) and will be featured in the next version of the Om Language.
+Creator of the Om Tree, an efficient and robust (with [100% line, function, and branch unit test coverage](https://impossibilium.gitlab.io/om-tree/gcovr/index.html)) associative array written in modern, portable C17 as a binary compact prefix tree with novel optimizations that allow it to significantly outperform std::map on most operations.
