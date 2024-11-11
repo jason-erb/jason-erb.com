@@ -18,11 +18,11 @@ Modern C++ (22+ years, along with STL, Boost, Qt/QtQuick/QML, and others), C, CM
 
 * **Skills:** C++, CMake, CPack, CTest, Boost, Google V8, Google Dawn, Google Omaha, JavaScript, Node API, WiX Toolset, Win32 API, Bash, Batch Script, Sockets, Linux, Windows, MacOS, Docker, Git, GitLab CI  
 * **Contributions:** Google Dawn, Google Omaha, Google V8, Uncrustify  
-* Architected, developed, and owned [DCP Native](https://gitlab.com/Distributed-Compute-Protocol/dcp-native), the native layer of the Distributive Compute Protocol, enabling users to install/configure/run workers for a distributed computer on x64/arm64 variants of Ubuntu, MacOS, Windows, and Docker (via multi-architecture image).  
-* Created a cross-platform, multithreaded, multiprocess, socket-based native V8-embedded JavaScript evaluation server with WebGPU capabilities.  
-* Made a screensaver that performed distributed work, along with a graphical configuration application.  
-* Managed releases: established a CI process that built graphical installers/containers and deployed to alpha/beta/release channels for manual/automatic download on all platforms.  
-* Mentored junior developers, pair-programmed, and reviewed code.
+* Architected, developed, and owned [DCP Native](https://gitlab.com/Distributed-Compute-Protocol/dcp-native), the native layer of the Distributive Compute Protocol, enabling users to install/configure/run workers for a distributed computer on x64/arm64 variants of Ubuntu, MacOS, Windows, and Docker (via multi-architecture image)  
+* Created a cross-platform, multithreaded, multiprocess, socket-based native V8-embedded JavaScript evaluation server with WebGPU capabilities  
+* Made a screensaver that performed distributed work, along with a graphical configuration application  
+* Managed releases: established a CI process that built graphical installers/containers and deployed to alpha/beta/release channels for manual/automatic download on all platforms  
+* Mentored junior developers, pair-programmed, and reviewed code
 
 #### **Suitable Technologies** | **Palo Alto, California, United States (Remote)**
 
@@ -30,23 +30,23 @@ Modern C++ (22+ years, along with STL, Boost, Qt/QtQuick/QML, and others), C, CM
 
 * **Skills:** C++, CMake, Qt, QtQuick, QML, Python, Linux, Windows, MacOS, Android, iOS, Objective-C++, Git  
 * **Contributions:** Qt  
-* As the first developer hired after spin-off from Willow Garage, joined the team responsible for both the embedded and client (“pilot”) software for the acclaimed Beam remote presence robot.  
-* Played a key role in porting pilot software to iOS and Android, including successfully realizing a mobile driving model and UI that achieved both safety and usability.  
-* Took the lead in the addition of a high-definition point/tilt/zoom camera and laser pointer: delegated tasks, collaborated on the design, and contributed code.  
-* Internationalized code (including RTL support), instituted i18n best practices, and oversaw localization.  
-* Authored a network diagnostics tool and UI.  
-* Assumed ownership of the pseudo-TCP implementation and relay-related code.  
-* Fixed bugs, wrote unit tests, reviewed code, and conducted technical job interviews.
+* As the first developer hired after spin-off from Willow Garage, joined the team responsible for both the embedded and client (“pilot”) software for the acclaimed Beam remote presence robot  
+* Played a key role in porting pilot software to iOS and Android, including successfully realizing a mobile driving model and UI that achieved both safety and usability  
+* Took the lead in the addition of a high-definition point/tilt/zoom camera and laser pointer: delegated tasks, collaborated on the design, and contributed code  
+* Internationalized code (including RTL support), instituted i18n best practices, and oversaw localization  
+* Authored a network diagnostics tool and UI  
+* Assumed ownership of the pseudo-TCP implementation and relay-related code  
+* Fixed bugs, wrote unit tests, reviewed code, and conducted technical job interviews
 
 #### **PrintFleet Inc.** | **Kingston, Ontario, Canada**
 
 ##### Senior Software Developer | July 2012 \- May 2013
 
 * **Skills:** ASP, ASP.NET, C\#, SQL, JavaScript, HTML, CSS, Windows  
-* Fixed and improved an asset management web software product.  
-* Internationalized code, automated text extraction/substitution, and oversaw localization.  
-* Redesigned and rewrote a distributed scheduling architecture for device notifications.  
-* Contributed to the design and delivery of a public REST API.
+* Fixed and improved an asset management web software product  
+* Internationalized code, automated text extraction/substitution, and oversaw localization  
+* Redesigned and rewrote a distributed scheduling architecture for device notifications  
+* Contributed to the design and delivery of a public REST API
 
 #### **Endetec (Veolia Water Solutions & Technologies)** | **Kingston, Ontario, Canada**
 
@@ -54,46 +54,46 @@ Modern C++ (22+ years, along with STL, Boost, Qt/QtQuick/QML, and others), C, CM
 
 * **Skills:** C++, CMake, Boost, Python, XML, XSLT, HTML, CSS, wxWidgets, Linux  
 * **Contributions:** Boost, CMake, wxWidgets  
-* Constituted half of the embedded software team for a touch-screen water-testing device, taking it through its first several production releases.  
-* Internationalized code, automated text extraction/substitution, and added Korean support to the touch-screen keyboard (requiring a crash course on the Hangul alphabet and combining character logic).  
-* Enabled HTML reporting by writing XSLT transforms for XML data.  
-* Fixed all resource leaks.
+* Constituted half of the embedded software team for a touch-screen water-testing device, taking it through its first several production releases  
+* Internationalized code, automated text extraction/substitution, and added Korean support to the touch-screen keyboard (requiring a crash course on the Hangul alphabet and combining character logic)  
+* Enabled HTML reporting by writing XSLT transforms for XML data  
+* Fixed all resource leaks
 
 #### **PYXIS Innovation** | **Kingston, Ontario, Canada**
 
 ##### Software Developer | September 2006 \- October 2008, September 2009 \- January 2011
 
 * **Skills:** C++, Boost, C\#, SWIG, Windows  
-* Helped develop a geospatial grid technology, browser, and SDK.  
-* Co-wrote the core of a peer-to-peer geospatial data sharing service.  
-* Fixed memory usage bugs when marshalling between managed and unmanaged code.  
-* Reduced large dataset import time from minutes to seconds, and added point feature dataset support.
+* Helped develop a geospatial grid technology, browser, and SDK  
+* Co-wrote the core of a peer-to-peer geospatial data sharing service  
+* Fixed memory usage bugs when marshalling between managed and unmanaged code  
+* Reduced large dataset import time from minutes to seconds, and added point feature dataset support
 
 #### **Dunne and Associates** | **Kingston, Ontario, Canada**
 
 ##### Senior Software Developer | November 2008 \- September 2009
 
 * **Skills:** C++, Boost, TTL SDKs, MFC, C\#, XNA, WCF, Lidgren, ActionScript, Windows, Xbox  
-* Created the BrainModder neurofeedback training software system.  
-* Developed networked games for BrainModder, controlled by the brain via real-time EEG and EMG data.
+* Created the BrainModder neurofeedback training software system  
+* Developed networked games for BrainModder, controlled by the brain via real-time EEG and EMG data
 
 #### **Hummingbird** | **Kingston, Ontario, Canada**
 
 ##### Software Developer | April 2002 \- September 2006
 
 * **Skills:** C++, MFC, OLAP, Windows  
-* Maintained code for a BI reporting product.  
-* Completed a multi-dimensional OLAP reporting and interaction feature.
+* Maintained code for a BI reporting product  
+* Completed a multi-dimensional OLAP reporting and interaction feature
 
 #### **Hilton Consulting Group** | **Kingston, Ontario, Canada**
 
 ##### Software Developer (Team Lead), Product Development Manager | September 1998 \- April 2002
 
 * **Skills:** SQL Server, Microsoft Analysis Services, OLAP, SQL, MDX, XML, ASP, JavaScript, HTML, CSS, Visual Basic, COM, XML, XSLT, Windows  
-* Directed a team of developers: trained, delegated, instituted standards, and reviewed code.  
-* Produced a commercial, web-based multi-dimensional data source browser and API.  
-* Architected the database and web UI for an asset auditing and management application.  
-* Wrote and tested applications for Hotel Dieu Hospital and the Ministry of Health and Long-Term Care.
+* Directed a team of developers: trained, delegated, instituted standards, and reviewed code  
+* Produced a commercial, web-based multi-dimensional data source browser and API  
+* Architected the database and web UI for an asset auditing and management application  
+* Wrote and tested applications for Hotel Dieu Hospital and the Ministry of Health and Long-Term Care
 
 ### **PROJECTS**
 
