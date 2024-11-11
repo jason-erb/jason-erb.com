@@ -20,7 +20,7 @@ Modern C++ (22+ years, along with STL, Boost, Qt/QtQuick/QML, and others), C, CM
 * **Contributions:** Google Dawn, Google Omaha, Google V8, Uncrustify  
 * Architected, developed, and owned [DCP Native](https://gitlab.com/Distributed-Compute-Protocol/dcp-native), the native layer of the Distributive Compute Protocol, enabling users to install/configure/run workers for a distributed computer on x64/arm64 variants of Ubuntu, MacOS, Windows, and Docker (via multi-architecture image).  
 * Created a cross-platform, multithreaded, multiprocess, socket-based native V8-embedded JavaScript evaluation server with WebGPU capabilities.  
-* Devised a screensaver to perform distributed work, along with a graphical configuration application.  
+* Made a screensaver that performed distributed work, along with a graphical configuration application.  
 * Managed releases: established a CI process that built graphical installers/containers and deployed to alpha/beta/release channels for manual/automatic download on all platforms.  
 * Mentored junior developers, pair-programmed, and reviewed code.
 
@@ -32,10 +32,10 @@ Modern C++ (22+ years, along with STL, Boost, Qt/QtQuick/QML, and others), C, CM
 * **Contributions:** Qt  
 * As the first developer hired after spin-off from Willow Garage, joined the team responsible for both the embedded and client (“pilot”) software for the acclaimed Beam remote presence robot.  
 * Played a key role in porting pilot software to iOS and Android, including successfully realizing a mobile driving model and UI that achieved both safety and usability.  
-* Took the lead in the addition of a high-definition point/tilt/zoom camera and laser pointer: delegated tasks, collaborated on the design, and wrote code.  
+* Took the lead in the addition of a high-definition point/tilt/zoom camera and laser pointer: delegated tasks, collaborated on the design, and contributed code.  
 * Internationalized code (including RTL support), instituted i18n best practices, and oversaw translations.  
-* Authored a network diagnostics tool and accompanying UI.  
-* Assumed ownership of pseudo-TCP implementation and relay-related code.  
+* Authored a network diagnostics tool and UI.  
+* Assumed ownership of the pseudo-TCP implementation and relay-related code.  
 * Fixed bugs, wrote unit tests, reviewed code, and conducted technical job interviews.
 
 #### **PrintFleet Inc.** | **Kingston, Ontario, Canada**
@@ -43,10 +43,10 @@ Modern C++ (22+ years, along with STL, Boost, Qt/QtQuick/QML, and others), C, CM
 ##### Senior Software Developer | July 2012 \- May 2013
 
 * **Skills:** ASP, ASP.NET, C\#, SQL, JavaScript, HTML, CSS, Windows  
-* Worked on an asset management web software team.  
+* Fixed and improved an asset management web software product.  
 * Internationalized code, automated text extraction/substitution, and oversaw translations.  
 * Redesigned and rewrote a distributed scheduling architecture for device notifications.  
-* Authored much of the public REST API.
+* Contributed to the design and delivery of a public REST API.
 
 #### **Endetec (Veolia Water Solutions & Technologies)** | **Kingston, Ontario, Canada**
 
@@ -56,7 +56,7 @@ Modern C++ (22+ years, along with STL, Boost, Qt/QtQuick/QML, and others), C, CM
 * **Contributions:** Boost, CMake, wxWidgets  
 * Constituted half of the embedded software team for a touch-screen water-testing device, taking it through its first several production releases.  
 * Internationalized code, automated text extraction/substitution, and added Korean support to the touch-screen keyboard (requiring a crash course on the Hangul alphabet and combining character logic).  
-* Provided HTML reporting via XSLT transforms on XML data.  
+* Enabled HTML reporting by writing XSLT transforms for XML data.  
 * Fixed all resource leaks.
 
 #### **PYXIS Innovation** | **Kingston, Ontario, Canada**
@@ -82,7 +82,7 @@ Modern C++ (22+ years, along with STL, Boost, Qt/QtQuick/QML, and others), C, CM
 ##### Software Developer | April 2002 \- September 2006
 
 * **Skills:** C++, MFC, OLAP, Windows  
-* Maintained much of the code for a BI reporting product.  
+* Maintained code for a BI reporting product.  
 * Completed a multi-dimensional OLAP reporting and interaction feature.
 
 #### **Hilton Consulting Group** | **Kingston, Ontario, Canada**
