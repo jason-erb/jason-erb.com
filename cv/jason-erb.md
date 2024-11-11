@@ -1,4 +1,4 @@
-# **JASON ERB** | **Senior Software Developer & Architect**
+# **JASON ERB** | Senior Software Developer & Architect
 
 ## Kingston ON CA | [\+1-343-333-4397](tel:+1-343-333-4397) | [consulting@jason-erb.com](mailto:consulting@jason-erb.com) | [jason-erb.com](https://jason-erb.com) | [linkedin.com/in/jason-erb](https://www.linkedin.com/in/jason-erb/)
 
@@ -13,7 +13,7 @@
 
 ### **EXPERIENCE**
 
-#### **Distributive** | **Kingston, Ontario, Canada**
+#### **Distributive** | Kingston, Ontario, Canada
 
 ##### Senior Software Developer (Contract) | August 2019 \- September 2024
 
@@ -25,7 +25,7 @@
 * Established a Swiss-watch CI build/test/release process that generated graphical installers/containers and deployed to alpha/beta/release channels for manual/automatic download on all platforms  
 * Mentored junior developers (reviewed design, pair-programmed) to add features such as live debugging
 
-#### **Suitable Technologies** | **Palo Alto, California, United States (Remote)**
+#### **Suitable Technologies** | Palo Alto, California, United States (Remote)
 
 ##### Senior Software Developer (Contract) | May 2013 \- January 2020
 
@@ -39,7 +39,7 @@
 * Assumed ownership of the pseudo-TCP implementation and relay-related code  
 * Fixed bugs, wrote unit tests, reviewed code, and conducted technical job interviews
 
-#### **PrintFleet Inc.** | **Kingston, Ontario, Canada**
+#### **PrintFleet Inc.** | Kingston, Ontario, Canada
 
 ##### Senior Software Developer | July 2012 \- May 2013
 
@@ -49,7 +49,7 @@
 * Redesigned and rewrote a distributed scheduling architecture for improved device notifications  
 * Contributed to the design and delivery of a clean public REST API
 
-#### **Endetec (Veolia Water Solutions & Technologies)** | **Kingston, Ontario, Canada**
+#### **Endetec (Veolia Water Solutions & Technologies)** | Kingston, Ontario, Canada
 
 ##### Software Developer | March 2011 \- July 2012
 
@@ -60,7 +60,7 @@
 * Enabled HTML usage reporting by writing XSLT transforms for XML data  
 * Robustified the software by fixing all resource leaks
 
-#### **PYXIS Innovation** | **Kingston, Ontario, Canada**
+#### **PYXIS Innovation** | Kingston, Ontario, Canada
 
 ##### Software Developer | September 2006 \- October 2008, September 2009 \- January 2011
 
@@ -70,7 +70,7 @@
 * Fixed memory usage bugs when marshalling between managed and unmanaged code  
 * Reduced large dataset import time from minutes to seconds, and added point feature dataset support
 
-#### **Dunne and Associates** | **Kingston, Ontario, Canada**
+#### **Dunne and Associates** | Kingston, Ontario, Canada
 
 ##### Senior Software Developer | November 2008 \- September 2009
 
@@ -78,7 +78,7 @@
 * Created the BrainModder neurofeedback training software system  
 * Developed networked games for BrainModder, controlled by the brain via real-time EEG and EMG data
 
-#### **Hummingbird** | **Kingston, Ontario, Canada**
+#### **Hummingbird** | Kingston, Ontario, Canada
 
 ##### Software Developer | April 2002 \- September 2006
 
@@ -86,7 +86,7 @@
 * Fixed bugs and made general improvements to the flagship BI reporting product  
 * Completed a multi-dimensional OLAP reporting and interaction feature
 
-#### **Hilton Consulting Group** | **Kingston, Ontario, Canada**
+#### **Hilton Consulting Group** | Kingston, Ontario, Canada
 
 ##### Software Developer (Team Lead), Product Development Manager | September 1998 \- April 2002
 
@@ -98,10 +98,10 @@
 
 ### **PROJECTS**
 
-#### **Om Language** | [**https://github.com/sparist/om**](https://github.com/sparist/Om)
+#### **Om Language** | [https://github.com/sparist/om](https://github.com/sparist/Om)
 
 Creator of the Om Language, an experimental high-level, concatenative, functional, homoiconic programming language, written in C++, with minimal syntax (only three elements), prefix notation (whereby functions manipulate the remainder of the program itself), and a single “program” data type.
 
-#### **Om Tree** | [**https://gitlab.com/impossibilium/om-tree**](https://gitlab.com/impossibilium/om-tree)
+#### **Om Tree** | [https://gitlab.com/impossibilium/om-tree](https://gitlab.com/impossibilium/om-tree)
 
 Creator of the Om Tree, an efficient and robust (with [100% line, function, and branch unit test coverage](https://impossibilium.gitlab.io/om-tree/gcovr/index.html)) associative array written in modern, portable C17 as a binary compact prefix tree with novel optimizations that allow it to significantly outperform std::map on most operations.
