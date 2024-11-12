@@ -57,7 +57,7 @@
 * **Contributions:** Boost, CMake, wxWidgets  
 * Constituted half of the embedded software team for a touch-screen water-testing device, seeing it through its first several production releases  
 * Internationalized code, automated text extraction and substitution, and added Korean support to the touch-screen keyboard (requiring a crash course on the Hangul alphabet and combining character logic)  
-* Added a needed HTML usage reporting feature by writing XSLT transforms for XML data  
+* Delivered a needed HTML reporting feature by writing XSLT transforms on XML data  
 * Robustified the software by systematically identifying and fixing all resource leaks
 
 #### **PYXIS Innovation** | Kingston ON CA
@@ -65,8 +65,8 @@
 ##### **Software Developer** | September 2006 \- October 2008, September 2009 \- January 2011
 
 * **Technologies:** C++, Boost, C\#, SWIG, Windows  
-* Helped develop a novel geospatial grid technology, along with a GeoWeb browser, SDK, and peer-to-peer geodata sharing service, that aimed to be the superior standard for geospatial mapping  
-* Systematically fixed memory usage bugs due to marshalling between managed and unmanaged code  
+* Helped develop a novel hexagonal geospatial grid technology, along with a GeoWeb browser, SDK, and peer-to-peer geodata sharing service  
+* Systematically fixed all memory bugs caused by marshalling between managed and unmanaged code  
 * Reduced large dataset import time from minutes to seconds, and added point feature dataset support
 
 #### **Dunne and Associates** | Kingston ON CA
@@ -74,8 +74,8 @@
 ##### **Senior Software Developer** | November 2008 \- September 2009
 
 * **Technologies:** C++, Boost, TTL SDKs, MFC, C\#, XNA, WCF, Lidgren, ActionScript, Windows, Xbox  
-* Created the BrainModder neurofeedback training software system for improving mind focus  
-* Developed networked games for BrainModder, controlled by the brain via real-time EEG and EMG data
+* Created the BrainModder neurofeedback software system for improving mind focus  
+* Developed networked games for BrainModder, controlled by the brain via real-time EEG and EMG data, to train the mind away from “busy brain” and into more desired brain activity
 
 #### **Hummingbird** | Kingston ON CA
 
@@ -83,7 +83,7 @@
 
 * **Technologies:** C++, MFC, OLAP, Windows  
 * Fixed bugs and made general improvements to the flagship BI reporting product  
-* Completed a multi-dimensional OLAP reporting and interaction feature for improved data analysis
+* Completed a multi-dimensional OLAP reporting and interaction feature for advanced analysis
 
 #### **Hilton Consulting Group** | Kingston ON CA
 
@@ -92,7 +92,7 @@
 * **Technologies:** SQL Server, Microsoft Analysis Services, OLAP, SQL, MDX, XML, ASP, JavaScript, HTML, CSS, Visual Basic, COM, XML, XSLT, Windows  
 * Directed a team of developers: trained, delegated, instituted standards, and reviewed code  
 * Produced a commercial, web-based multi-dimensional data source browser and API  
-* Magicked together a web UI that simulated the Windows desktop as part of an asset management application, and architected the backing database  
+* Devised a web UI that simulated the Windows desktop as part of an asset management application, and architected the backing database  
 * Wrote and tested applications for Hotel Dieu Hospital and the Ministry of Health and Long-Term Care
 
 ### **PROJECTS**
