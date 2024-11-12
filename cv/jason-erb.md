@@ -75,7 +75,7 @@
 
 * **Technologies:** C++, Boost, TTL SDKs, MFC, C\#, XNA, WCF, Lidgren, ActionScript, Windows, Xbox  
 * Created the BrainModder neurofeedback software system for improving mind focus  
-* Developed networked games for BrainModder, controlled by the brain via real-time EEG and EMG data, to train the brain toward more desired activity metrics
+* Developed networked games for BrainModder, controlled by the brain via real-time EEG and EMG data, to train the brain toward desired activity metrics
 
 #### **Hummingbird** | Kingston ON CA
 
