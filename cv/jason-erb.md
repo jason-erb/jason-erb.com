@@ -19,10 +19,10 @@
 
 * **Technologies:** C++, CMake, CPack, CTest, Boost, Google V8, Google Dawn, Google Omaha, JavaScript, Node API, WiX Toolset, Win32 API, Bash, Sockets, Linux, Windows, MacOS, Docker, Git, GitLab CI  
 * **Contributions:** Google Dawn, Google Omaha, Google V8, Uncrustify  
-* Architected, developed, and owned [DCP Native](https://gitlab.com/Distributed-Compute-Protocol/dcp-native), the native layer of the Distributive Compute Protocol that enabled users to install/configure/run workers for a distributed computer on x64 and arm64 variants of Ubuntu, MacOS, Windows, and Docker (via multi-architecture image)  
+* Architected, developed, and owned [DCP Native](https://gitlab.com/Distributed-Compute-Protocol/dcp-native), the native layer of the Distributive Compute Protocol that enables users to install/configure/run workers for a distributed computer on x64 and arm64 variants of Ubuntu, MacOS, Windows, and Docker (via multi-architecture image)  
 * Created the cornerstone cross-platform, multithreaded, multiprocess, socket-based native V8-embedded JavaScript evaluation server, with WebGPU capabilities, for securely executing distributed code  
 * Made a screensaver that performed distributed work, along with a graphical configuration application  
-* Established a Swiss-watch CI build/test/release process that deployed containers and graphical installers to alpha/beta/release channels for manual/automatic download on all platforms  
+* Established a Swiss-watch CI build/test/release process that deploys containers and graphical installers to alpha/beta/release channels for manual/automatic download on all platforms  
 * Mentored junior developers (reviewed design, pair-programmed) to add features such as live debugging
 
 #### **Suitable Technologies** | Palo Alto CA US (Remote)
@@ -31,7 +31,7 @@
 
 * **Technologies:** C++, CMake, Qt, QtQuick, QML, Python, Linux, Windows, MacOS, Android, iOS, Objective-C++, Git  
 * **Contributions:** Qt  
-* As the first developer hired after spin-off from Willow Garage, joined the team responsible for both the embedded and client (“pilot”) software for the acclaimed Beam remote presence robot  
+* As the first developer hired after spin-off from Willow Garage, joined the embedded and client (“pilot”) software team for the acclaimed Beam remote presence robot  
 * Ported pilot software to iOS and Android, successfully devising a mobile driving model and UI that achieved both safety and usability  
 * Led the addition of a high-definition PTZ camera and laser pointer feature: delegated tasks, collaborated on design, and contributed code  
 * Internationalized code (including RTL support), instituted i18n best practices, and oversaw localization  
@@ -65,8 +65,8 @@
 ##### **Software Developer** | September 2006 \- October 2008, September 2009 \- January 2011
 
 * **Technologies:** C++, Boost, C\#, SWIG, Windows  
-* Helped develop a novel hexagonal geospatial grid technology, along with a GeoWeb browser, SDK, and peer-to-peer geodata sharing service  
-* Systematically fixed all memory bugs caused by marshalling between managed and unmanaged code  
+* Helped develop a novel multiresolution hexagonal geospatial grid technology, along with a GeoWeb browser, SDK, and peer-to-peer geodata sharing service  
+* Improved stability of the product by systematically fixing all memory bugs caused by marshalling between managed and unmanaged code  
 * Reduced large dataset import time from minutes to seconds, and added point feature dataset support
 
 #### **Dunne and Associates** | Kingston ON CA
@@ -75,7 +75,7 @@
 
 * **Technologies:** C++, Boost, TTL SDKs, MFC, C\#, XNA, WCF, Lidgren, ActionScript, Windows, Xbox  
 * Created the BrainModder neurofeedback software system for improving mind focus  
-* Developed networked games for BrainModder, controlled by the brain via real-time EEG and EMG data, to train the mind away from “busy brain” and into more desired brain activity
+* Developed networked games for BrainModder, controlled by the brain via real-time EEG and EMG data, to train the brain toward more desired activity metrics
 
 #### **Hummingbird** | Kingston ON CA
 
@@ -83,7 +83,7 @@
 
 * **Technologies:** C++, MFC, OLAP, Windows  
 * Fixed bugs and made general improvements to the flagship BI reporting product  
-* Completed a multi-dimensional OLAP reporting and interaction feature for advanced analysis
+* Completed a multi-dimensional OLAP reporting and interaction feature for advanced data analysis
 
 #### **Hilton Consulting Group** | Kingston ON CA
 
