@@ -13,7 +13,7 @@
 
 ### **EXPERIENCE**
 
-#### **Distributive** | Kingston, Ontario, Canada
+#### **Distributive** | Kingston ON CA
 
 ##### **Senior Software Developer (Contract)** | August 2019 \- September 2024
 
@@ -25,7 +25,7 @@
 * Established a Swiss-watch CI build/test/release process that generated graphical installers/containers and deployed to alpha/beta/release channels for manual/automatic download on all platforms  
 * Mentored junior developers (reviewed design, pair-programmed) to add features such as live debugging
 
-#### **Suitable Technologies** | Palo Alto, California, United States (Remote)
+#### **Suitable Technologies** | Palo Alto CA US (Remote)
 
 ##### **Senior Software Developer (Contract)** | May 2013 \- January 2020
 
@@ -39,7 +39,7 @@
 * Assumed ownership of the pseudo-TCP implementation and relay-related code  
 * Fixed bugs, wrote unit tests, reviewed code, and conducted technical job interviews
 
-#### **PrintFleet Inc.** | Kingston, Ontario, Canada
+#### **PrintFleet Inc.** | Kingston ON CA
 
 ##### **Senior Software Developer** | July 2012 \- May 2013
 
@@ -49,7 +49,7 @@
 * Redesigned and rewrote a distributed scheduling architecture for improved device notifications  
 * Contributed to the design and delivery of a clean public REST API
 
-#### **Endetec (Veolia Water Solutions & Technologies)** | Kingston, Ontario, Canada
+#### **Endetec (Veolia Water Solutions & Technologies)** | Kingston ON CA
 
 ##### **Software Developer** | March 2011 \- July 2012
 
@@ -60,7 +60,7 @@
 * Enabled HTML usage reporting by writing XSLT transforms for XML data  
 * Robustified the software by fixing all resource leaks
 
-#### **PYXIS Innovation** | Kingston, Ontario, Canada
+#### **PYXIS Innovation** | Kingston ON CA
 
 ##### **Software Developer** | September 2006 \- October 2008, September 2009 \- January 2011
 
@@ -70,7 +70,7 @@
 * Fixed memory usage bugs when marshalling between managed and unmanaged code  
 * Reduced large dataset import time from minutes to seconds, and added point feature dataset support
 
-#### **Dunne and Associates** | Kingston, Ontario, Canada
+#### **Dunne and Associates** | Kingston ON CA
 
 ##### **Senior Software Developer** | November 2008 \- September 2009
 
@@ -78,7 +78,7 @@
 * Created the BrainModder neurofeedback training software system  
 * Developed networked games for BrainModder, controlled by the brain via real-time EEG and EMG data
 
-#### **Hummingbird** | Kingston, Ontario, Canada
+#### **Hummingbird** | Kingston ON CA
 
 ##### **Software Developer** | April 2002 \- September 2006
 
@@ -86,7 +86,7 @@
 * Fixed bugs and made general improvements to the flagship BI reporting product  
 * Completed a multi-dimensional OLAP reporting and interaction feature
 
-#### **Hilton Consulting Group** | Kingston, Ontario, Canada
+#### **Hilton Consulting Group** | Kingston ON CA
 
 ##### **Software Developer (Team Lead), Product Development Manager** | September 1998 \- April 2002
 
