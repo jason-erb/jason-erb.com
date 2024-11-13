@@ -90,10 +90,9 @@
 ##### **Software Developer (Team Lead), Product Development Manager** | September 1998 \- April 2002
 
 * **Technologies:** SQL Server, Microsoft Analysis Services, OLAP, SQL, MDX, XML, ASP, JavaScript, HTML, CSS, Visual Basic, COM, XML, XSLT, Windows  
-* Directed a team of developers: trained, delegated, instituted standards, and reviewed code  
+* Directed a team of developers in writing and testing applications for Hotel Dieu Hospital and the Ministry of Health and Long-Term Care  
 * Produced a commercial, web-based multi-dimensional data source browser and API  
-* Devised a web UI that simulated the Windows desktop as part of an asset management application, and architected the backing database  
-* Wrote and tested applications for Hotel Dieu Hospital and the Ministry of Health and Long-Term Care
+* Devised a web UI simulating the Windows desktop as part of an asset management application, and architected the backing database
 
 ### **PROJECTS**
 
