@@ -21,7 +21,7 @@
 * **Contributions:** Google Dawn, Google Omaha, Google V8, Uncrustify  
 * Architected, developed, and owned [DCP Native](https://gitlab.com/Distributed-Compute-Protocol/dcp-native), the native (C++) layer of the Distributive Compute Protocol that enables users to install/configure/run workers for a distributed computer on x64 and arm64 variants of Ubuntu, MacOS, Windows, and Docker (via multi-architecture image)  
 * Created the cornerstone cross-platform, multithreaded, multiprocess, socket-based native V8-embedded JavaScript evaluation server, with WebGPU capabilities, for securely executing distributed code  
-* Developed a screensaver that performed distributed work, along with a graphical configuration UI, that was widely deployed to compute labs to put idle computers to use for the distributed network  
+* Developed a screensaver to perform distributed work, along with a graphical configuration UI, that was widely deployed to compute labs to put idle computers to use for the distributed network  
 * Established a CI build/test/release process that deploys containers and graphical installers to alpha/beta/release channels for manual/automatic download on all platforms  
 * Mentored junior developers (reviewed design, pair-programmed) to add features such as live debugging
 
@@ -35,7 +35,7 @@
 * Ported pilot software to iOS and Android, devising a safe and usable mobile driving model and UI  
 * Led the project that added a high-definition PTZ camera and laser pointer feature  
 * Internationalized code (including RTL support), instituted i18n best practices, and oversaw localization  
-* Wrote tools and UI for gathering network diagnostics to improve call quality; owned all pseudo-TCP and relay-related code
+* Owned all pseudo-TCP and relay-related code, and wrote tools and UI to gather network diagnostics for improving call quality
 
 #### **PrintFleet Inc.** | Kingston ON CA
 
