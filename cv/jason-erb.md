@@ -19,10 +19,10 @@
 
 * **Technologies:** C++, CMake, CPack, CTest, Boost, Google V8, Google Dawn, Google Omaha, JavaScript, Node API, WiX Toolset, Win32 API, Bash, Sockets, Linux, Windows, MacOS, Docker, Git, GitLab CI  
 * **Contributions:** Google Dawn, Google Omaha, Google V8, Uncrustify  
-* Architected, developed, and owned [DCP Native](https://gitlab.com/Distributed-Compute-Protocol/dcp-native), the native layer of the Distributive Compute Protocol that enables users to install/configure/run workers for a distributed computer on x64 and arm64 variants of Ubuntu, MacOS, Windows, and Docker (via multi-architecture image)  
+* Architected, developed, and owned [DCP Native](https://gitlab.com/Distributed-Compute-Protocol/dcp-native), the native (C++) layer of the Distributive Compute Protocol that enables users to install/configure/run workers for a distributed computer on x64 and arm64 variants of Ubuntu, MacOS, Windows, and Docker (via multi-architecture image)  
 * Created the cornerstone cross-platform, multithreaded, multiprocess, socket-based native V8-embedded JavaScript evaluation server, with WebGPU capabilities, for securely executing distributed code  
-* Made a screensaver that performed distributed work, along with a graphical configuration application  
-* Established a Swiss-watch CI build/test/release process that deploys containers and graphical installers to alpha/beta/release channels for manual/automatic download on all platforms  
+* Developed a screensaver that performed distributed work, along with a graphical configuration UI, that was widely deployed to compute labs to put idle computers to use for the distributed network  
+* Established a CI build/test/release process that deploys containers and graphical installers to alpha/beta/release channels for manual/automatic download on all platforms  
 * Mentored junior developers (reviewed design, pair-programmed) to add features such as live debugging
 
 #### **Suitable Technologies** | Palo Alto CA US (Remote)
@@ -31,20 +31,18 @@
 
 * **Technologies:** C++, CMake, Qt, QtQuick, QML, Python, Linux, Windows, MacOS, Android, iOS, Objective-C++, Git  
 * **Contributions:** Qt  
-* As the first developer hired after spin-off from Willow Garage, joined the embedded and client (“pilot”) software team for the acclaimed Beam remote presence robot  
-* Ported pilot software to iOS and Android, successfully devising a mobile driving model and UI that achieved both safety and usability  
-* Led the addition of a high-definition PTZ camera and laser pointer feature: delegated tasks, collaborated on design, and contributed code  
+* As the first developer hired after spin-off from Willow Garage, wrote core C++, QML, CMake, and Python code on the embedded and client (“pilot”) software team for the acclaimed Beam remote presence robot  
+* Ported pilot software to iOS and Android, devising a safe and usable mobile driving model and UI  
+* Led the project that added a high-definition PTZ camera and laser pointer feature  
 * Internationalized code (including RTL support), instituted i18n best practices, and oversaw localization  
-* Authored a network diagnostics tool and UI for troubleshooting call quality issues  
-* Assumed ownership of the pseudo-TCP and relay-related code, ensuring reliable connections worldwide  
-* Fixed bugs, wrote unit tests, reviewed code, and conducted technical job interviews
+* Wrote tools and UI for gathering network diagnostics to improve call quality; owned all pseudo-TCP and relay-related code
 
 #### **PrintFleet Inc.** | Kingston ON CA
 
 ##### **Senior Software Developer** | July 2012 \- May 2013
 
 * **Technologies:** ASP, ASP.NET, C\#, SQL, JavaScript, HTML, CSS, Windows  
-* Fixed and improved the core asset management web software product  
+* Wrote server- and client-side code on the asset management web software team  
 * Internationalized code, automated text extraction and substitution, and oversaw localization  
 * Redesigned and rewrote a distributed scheduling architecture for improved device notifications  
 * Contributed to the design and delivery of a clean public REST API to open up programmatic querying
@@ -55,10 +53,9 @@
 
 * **Technologies:** C++, CMake, Boost, Python, XML, XSLT, HTML, CSS, wxWidgets, Linux  
 * **Contributions:** Boost, CMake, wxWidgets  
-* Constituted half of the embedded software team for a touch-screen water-testing device, seeing it through its first several production releases  
+* Wrote embedded C++ code as half of the software team for a touch-screen water-testing device, seeing it through its first several production releases  
 * Internationalized code, automated text extraction and substitution, and added Korean support to the touch-screen keyboard (requiring a crash course on the Hangul alphabet and combining character logic)  
-* Delivered a needed HTML reporting feature by writing XSLT transforms on XML data  
-* Robustified the software by systematically identifying and fixing all resource leaks
+* Delivered a needed HTML reporting feature by writing XSLT transforms on XML data
 
 #### **PYXIS Innovation** | Kingston ON CA
 
